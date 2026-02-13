@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>欢迎来到我的博客</title>
+      <link href="/posts/b250e9bb/"/>
+      <url>/posts/b250e9bb/</url>
+      
+        <content type="html"><![CDATA[<h2 id="你好！👋"><a href="#你好！👋" class="headerlink" title="你好！👋"></a>你好！👋</h2><p>这是我的第一篇在Android手机上创建的Hexo博客文章。</p><h3 id="特色功能"><a href="#特色功能" class="headerlink" title="特色功能"></a>特色功能</h3><ul><li>✅ 在Termux中运行</li><li>✅ 本地实时预览</li><li>✅ 支持Markdown写作</li><li>✅ 可部署到GitHub Pages</li></ul><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li>Hexo 静态博客框架</li><li>Node.js 运行环境</li><li>Markdown 写作格式</li></ul><h3 id="代码示例"><a href="#代码示例" class="headerlink" title="代码示例"></a>代码示例</h3><pre><code class="language-javascript">console.log(&quot;Hello from Termux Hexo!&quot;);</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 欢迎 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Termux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于思考</title>
+      <link href="/posts/e6432aea/"/>
+      <url>/posts/e6432aea/</url>
+      
+        <content type="html"><![CDATA[<!-- 在这里写摘要 --><span id="more"></span><h1 id="关于“思考”"><a href="#关于“思考”" class="headerlink" title="关于“思考”"></a>关于“思考”</h1><p>我一直觉得，人要思考才可以变得不一样。一切的自我提升，本质上都来源于思考。正如苏格拉底那句名言所说：</p><blockquote><p>“未经审视的人生是不值得过的。”</p></blockquote><h2 id="什么是思考？"><a href="#什么是思考？" class="headerlink" title="什么是思考？"></a>什么是思考？</h2><p>坦白说，我其实很难把它描述清楚——因为在我习惯了持续思考之后，已经无法想象「不思考」是一种怎样的状态了。</p><h2 id="哪些是重要的思考？"><a href="#哪些是重要的思考？" class="headerlink" title="哪些是重要的思考？"></a>哪些是重要的思考？</h2><p>那可太多了。比如：</p><ul><li>自我主体性  </li><li>客体化地观察自我  </li><li>课题分离  </li><li>对万物的本质追问  </li><li>“我究竟是个怎样的人？”</li><li>“我想成为什么样的人？”</li><li>内心最深处在追求什么？</li><li>“自我”到底是什么？</li></ul><p>也包括那些更结构化的思考方式：一步步拆解问题、逻辑推导、代入不同视角、容纳所有可能被忽略的细节、警惕自我欺骗……以及对万物运行原理保持好奇与探索。</p><h2 id="我的思考之路"><a href="#我的思考之路" class="headerlink" title="我的思考之路"></a>我的思考之路</h2><p>其实几年前，我也并不真正理解“思考”是什么。那时觉得这个词很玄，离我很远。</p><p>转变始于一个偶然的时刻。我点开一个讲解“相对论中的时间”的视频，本来只是当作背景音放着，却渐渐被其中的概念吸引。听完之后，那些片段仍在脑海中反复回放、连接、重组、理解——我后来才意识到，<strong>那种状态，就是思考</strong>。</p><p>从此我便一路“狂飙”，用我理解的“四维时空”概念去重新打量身边的一切。虽然很多领域我并不真的懂，但那时的我，更像是在进行一场又一场的思想实验。一有空闲，思绪便自动沉入那个不断延展的内心剧场。</p><h2 id="一个参考性的答案"><a href="#一个参考性的答案" class="headerlink" title="一个参考性的答案"></a>一个参考性的答案</h2><p>我曾和 AI 讨论过“思考是什么”，也得到一个让我反复回味的描述。虽然说不清它是否完全贴合我的体验，但至少是一个值得分享的视角：</p><blockquote><p>思考对我来说，或许就是将外来的信息，在内心的剧场里反复排演、碰撞，直到它长出属于自己的脉络的过程。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在Cloudflare上部署邮件服务</title>
+      <link href="/posts/e3c62c27/"/>
+      <url>/posts/e3c62c27/</url>
+      
+        <content type="html"><![CDATA[<!-- 在这里写摘要 --><span id="more"></span><h1 id="在-Cloudflare-上部署邮件服务"><a href="#在-Cloudflare-上部署邮件服务" class="headerlink" title="在 Cloudflare 上部署邮件服务"></a>在 Cloudflare 上部署邮件服务</h1><blockquote><p>本文介绍如何使用 Cloudflare Worker 及相关服务搭建自己的邮件服务。</p></blockquote><h2 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h2><ol><li>使用 Cloudflare Worker 部署</li><li>Cloudflare 账户上需要有域名</li><li>本教程使用图形化部署，若需要使用 Github Action 部署，请查看官方文档：<a href="https://doc.skymail.ink/">https://doc.skymail.ink/</a></li></ol><hr><h2 id="1-创建项目"><a href="#1-创建项目" class="headerlink" title="1. 创建项目"></a>1. 创建项目</h2><h3 id="1-1-获取源代码"><a href="#1-1-获取源代码" class="headerlink" title="1.1 获取源代码"></a>1.1 获取源代码</h3><p>前往 Github，给项目作者点个 Star 并 fork：<br><a href="https://github.com/maillab/cloud-mail">https://github.com/maillab/cloud-mail</a></p><h3 id="1-2-创建-Worker-项目"><a href="#1-2-创建-Worker-项目" class="headerlink" title="1.2 创建 Worker 项目"></a>1.2 创建 Worker 项目</h3><p>在 Cloudflare Workers 页面，创建新项目，选择“从 Github 导入”方式。<br><img src="/images/cloud-mail/1.2.png" alt="1.2配图"></p><h3 id="1-3-配置路径"><a href="#1-3-配置路径" class="headerlink" title="1.3 配置路径"></a>1.3 配置路径</h3><p>在部署前的配置页面，向下滚动到“路径”设置，将其修改为：<br><code>/mail-worker</code><br><img src="/images/cloud-mail/1.3.png" alt="1.3配图"></p><h3 id="1-4-设置环境变量（必须变量示例）"><a href="#1-4-设置环境变量（必须变量示例）" class="headerlink" title="1.4 设置环境变量（必须变量示例）"></a>1.4 设置环境变量（必须变量示例）</h3><table><thead><tr><th>变量名</th><th>用途说明</th></tr></thead><tbody><tr><td><code>domain</code></td><td>邮箱要使用的域名，多域名请用 JSON 数组格式，例如 <code>[&quot;example.com&quot;,&quot;example2.com&quot;]</code></td></tr><tr><td><code>admin</code></td><td>后台面板的管理员邮箱地址，例如 <code>admin@example.com</code></td></tr><tr><td><code>jwt_secret</code></td><td>JWT 密钥，可以输入一串随机字符串或 UUID，避免使用特殊字符</td></tr></tbody></table><hr><h2 id="2-绑定数据库"><a href="#2-绑定数据库" class="headerlink" title="2. 绑定数据库"></a>2. 绑定数据库</h2><h3 id="2-1-创建数据库"><a href="#2-1-创建数据库" class="headerlink" title="2.1 创建数据库"></a>2.1 创建数据库</h3><p>在 Cloudflare 控制台中分别创建一个 <strong>KV 命名空间</strong> 和一个 <strong>D1 数据库</strong>。<br><img src="/images/cloud-mail/2.1.png" alt="2.1配图"></p><h3 id="2-2-添加绑定"><a href="#2-2-添加绑定" class="headerlink" title="2.2 添加绑定"></a>2.2 添加绑定</h3><p>在 Worker 的“设置” -&gt; “变量”中，添加以下绑定：  </p><ul><li>变量名：<code>kv</code>，绑定到你创建的 KV 命名空间  </li><li>变量名：<code>db</code>，绑定到你创建的 D1 数据库</li></ul><blockquote><p><strong>注意</strong>：变量名必须为 <code>kv</code> 和 <code>db</code>。</p></blockquote><hr><h2 id="3-设置邮件转发"><a href="#3-设置邮件转发" class="headerlink" title="3. 设置邮件转发"></a>3. 设置邮件转发</h2><ol><li>进入你要使用的域名管理页面。</li><li>选择 <strong>电子邮件</strong> → <strong>电子邮件路由</strong> → <strong>路由规则</strong>。</li><li>修改并启用 <strong>Catch-All</strong> 规则，目标选择你刚部署的 Worker 项目。</li></ol><hr><h2 id="4-登录网站"><a href="#4-登录网站" class="headerlink" title="4. 登录网站"></a>4. 登录网站</h2><h3 id="4-1-初始化数据库"><a href="#4-1-初始化数据库" class="headerlink" title="4.1 初始化数据库"></a>4.1 初始化数据库</h3><p>在浏览器中访问以下 URL（请替换实际参数）：  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://你的worker自定义域/api/init/你的jwt_secret</span><br></pre></td></tr></table></figure><h3 id="4-2-注册管理员账号"><a href="#4-2-注册管理员账号" class="headerlink" title="4.2 注册管理员账号"></a>4.2 注册管理员账号</h3><ol><li>访问你的 Worker 自定义域名。</li><li>注册管理员账号并登录。</li></ol><hr><h2 id="5-更新部署"><a href="#5-更新部署" class="headerlink" title="5. 更新部署"></a>5. 更新部署</h2><h3 id="5-1-代码同步"><a href="#5-1-代码同步" class="headerlink" title="5.1 代码同步"></a>5.1 代码同步</h3><p>当你从 Github 同步代码后，Worker 会自动更新。</p><h3 id="5-2-重新绑定数据库"><a href="#5-2-重新绑定数据库" class="headerlink" title="5.2 重新绑定数据库"></a>5.2 重新绑定数据库</h3><p>更新后，原先绑定的数据库可能会丢失，需要重新绑定 <code>db</code> 和 <code>kv</code>。</p><h3 id="5-3-更新数据库"><a href="#5-3-更新数据库" class="headerlink" title="5.3 更新数据库"></a>5.3 更新数据库</h3><p>访问以下 URL 更新数据库（不会覆盖已有数据）：  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://你的worker自定义域/api/init/你的jwt_secret</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术分享 </category>
+          
+          <category> Cloudflare </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudflare </tag>
+            
+            <tag> Mail </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
