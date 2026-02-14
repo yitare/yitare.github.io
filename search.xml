@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>常用软件备份</title>
-      <link href="/posts/d1874913/"/>
-      <url>/posts/d1874913/</url>
-      
-        <content type="html"><![CDATA[<!-- 在这里写摘要 --><span id="more"></span><h1 id="Android-常用软件备份"><a href="#Android-常用软件备份" class="headerlink" title="Android 常用软件备份"></a>Android 常用软件备份</h1><p>记录一些自己日常使用的 Android 软件，方便重装或换机时快速找回。</p><h2 id="🎵-音频类"><a href="#🎵-音频类" class="headerlink" title="🎵 音频类"></a>🎵 音频类</h2><p><strong>Salt Player</strong><br>本地音乐播放器，设计简洁，解码表现不错。<br>🔗 <a href="https://moriafly.com/program/salt-player.html">下载链接</a></p><p><strong>音乐标签</strong><br>给音乐文件添加歌词、封面等元数据的工具，适合整理本地曲库。<br>🔗 <a href="https://www.lanzouw.com/i9BTA0oljkvg">下载链接</a></p><p><strong>小宇宙</strong><br>中文播客应用，界面舒服，内容生态也不错。<br>🔗 <a href="https://www.xiaoyuzhoufm.com/download">下载链接</a></p><h2 id="🛠️-工具类"><a href="#🛠️-工具类" class="headerlink" title="🛠️ 工具类"></a>🛠️ 工具类</h2><p><strong>XMind</strong><br>老牌思维导图工具，用来梳理思路、做笔记都很顺手。<br>🔗 <a href="https://xmind.cn/download">下载链接</a></p><p><strong>Termux</strong><br>Android 上的 Linux 终端模拟器，能装各种命令行工具，可玩性极高。<br>🔗 <a href="https://github.com/termux/termux-app/releases">下载链接</a></p><p><strong>Seal</strong><br>开源的视频下载工具，支持 YouTube、B站等多个平台。<br>🔗 <a href="https://github.com/JunkFood02/Seal/releases">下载链接</a></p><p><strong>PicHoro</strong><br>手机端图床管理工具，兼容多种图床服务，方便上传和管理图片。<br>🔗 <a href="https://github.com/Kuingsmile/PicHoro/releases">下载链接</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>欢迎来到我的博客</title>
       <link href="/posts/b250e9bb/"/>
       <url>/posts/b250e9bb/</url>
@@ -58,13 +33,25 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156/"/>
-      <url>/posts/4a17b156/</url>
+      <title>常用软件备份</title>
+      <link href="/posts/d1874913/"/>
+      <url>/posts/d1874913/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<!-- 在这里写摘要 --><span id="more"></span><h1 id="Android-常用软件备份"><a href="#Android-常用软件备份" class="headerlink" title="Android 常用软件备份"></a>Android 常用软件备份</h1><p>记录一些自己日常使用的 Android 软件，方便重装或换机时快速找回。</p><h2 id="🎵-音频类"><a href="#🎵-音频类" class="headerlink" title="🎵 音频类"></a>🎵 音频类</h2><p><strong>Salt Player</strong><br>本地音乐播放器，设计简洁，解码表现不错。<br>🔗 <a href="https://moriafly.com/program/salt-player.html">下载链接</a></p><p><strong>音乐标签</strong><br>给音乐文件添加歌词、封面等元数据的工具，适合整理本地曲库。<br>🔗 <a href="https://www.lanzouw.com/i9BTA0oljkvg">下载链接</a></p><p><strong>小宇宙</strong><br>中文播客应用，界面舒服，内容生态也不错。<br>🔗 <a href="https://www.xiaoyuzhoufm.com/download">下载链接</a></p><h2 id="🛠️-工具类"><a href="#🛠️-工具类" class="headerlink" title="🛠️ 工具类"></a>🛠️ 工具类</h2><p><strong>XMind</strong><br>老牌思维导图工具，用来梳理思路、做笔记都很顺手。<br>🔗 <a href="https://xmind.cn/download">下载链接</a></p><p><strong>Termux</strong><br>Android 上的 Linux 终端模拟器，能装各种命令行工具，可玩性极高。<br>🔗 <a href="https://github.com/termux/termux-app/releases">下载链接</a></p><p><strong>Seal</strong><br>开源的视频下载工具，支持 YouTube、B站等多个平台。<br>🔗 <a href="https://github.com/JunkFood02/Seal/releases">下载链接</a></p><p><strong>PicHoro</strong><br>手机端图床管理工具，兼容多种图床服务，方便上传和管理图片。<br>🔗 <a href="https://github.com/Kuingsmile/PicHoro/releases">下载链接</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     
